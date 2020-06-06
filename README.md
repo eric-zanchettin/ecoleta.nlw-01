@@ -34,4 +34,4 @@
 <code>$ npm install</code><br>
 <code>$ expo install expo-font @expo-google-fonts/ubuntu @expo-google-fonts/roboto</code><br>
 <code>$ npm start</code></p>
-<a href="https://www.linkedin.com/in/eric-zanchettin-presto-973a99196/"><img width="35" height="35" src="https://i.imgur.com/QPvaHko.png" />Meu LinkedIn</a>
+<a href="https://www.linkedin.com/in/eric-zanchettin-presto-973a99196/"><img width="25" height="25" src="https://i.imgur.com/QPvaHko.png" />Meu LinkedIn</a>
