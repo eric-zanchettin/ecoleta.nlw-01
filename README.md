@@ -1,4 +1,6 @@
-<p style="text-align" center;' class="has-line-data" data-line-start="0" data-line-end="1"><img align="center" src="https://i.imgur.com/Vy8v1eg.png" alt="Ecoleta"></p>
+<h1 align="center">
+    <img alt="Ecoleta" src="https://res.cloudinary.com/dtifsqadc/image/upload/v1591456774/logo_wgzuor.svg" />
+</h1>
 <h1 style="text-align: center;" class="code-line" data-line-start=1 data-line-end=2 ><a id="Projeto_Ecoleta__Next_Level_Week_01_1"></a>♻️ Projeto Ecoleta - Next Level Week #01</h1>
 <hr>
 <h2 class="code-line" data-line-start=5 data-line-end=6 ><a id="Apresentao_5"></a>🔎 Apresentação:</h2>
