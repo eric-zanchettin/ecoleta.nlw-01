@@ -1,7 +1,7 @@
 <h1 align="center">
     <img alt="Ecoleta" src="https://i.imgur.com/Vy8v1eg.png" />
 </h1>
-<h1 style="text-align: center;" class="code-line" data-line-start=1 data-line-end=2 ><a id="Projeto_Ecoleta__Next_Level_Week_01_1"></a>♻️ Projeto Ecoleta - Next Level Week #01</h1>
+<h1 align="center" class="code-line" data-line-start=1 data-line-end=2 ><a id="Projeto_Ecoleta__Next_Level_Week_01_1"></a>♻️ Projeto Ecoleta - Next Level Week #01</h1>
 <hr>
 <h2 class="code-line" data-line-start=5 data-line-end=6 ><a id="Apresentao_5"></a>🔎 Apresentação:</h2>
 <p class="has-line-data" data-line-start="6" data-line-end="7">O Ecoleta foi um projeto proposto na semana Next Level Week #01 (Booster) - com o apoio do instrutor <a href="https://github.com/diego3g">Diego Fernandes</a>, CTO da <a href="https://github.com/Rocketseat">Rocketseat</a> - focado em ajudar empresas a cadastrarem seus mercados, pontos de coleta, postos, aterros e afins para que usuários pudessem encontrá-los perto de sua região e depositarem, ecologicamente, resíduos eletrônicos e orgâncios, papéis, papelão, lâmpadas, pilhas, baterias etc.</p>
