@@ -17,6 +17,7 @@
 <li class="has-line-data" data-line-start="17" data-line-end="18"><a href="http://knexjs.org"><strong>knex;</strong></a></li>
 <li class="has-line-data" data-line-start="18" data-line-end="20"><a href="https://www.sqlite.org/index.html"><strong>sqlite3</strong></a></li>
 </ul>
+<p>Lembrando que o projeto foi desenvolvido numa Semana intensiva com um bombardeio de conteúdos do dia 01/06 à 05/06 o que foi ótimo para intensificar ainda mais meu aprendizado, esforço e conhecimento, tudo perfeito e disponibilizado gratuitamente pela Rocketseat!</p>
 <hr>
 <h2 class="code-line" data-line-start=22 data-line-end=23 ><a id="Instalo_e_uso_do_Projeto_22"></a>📦 Instalção e uso do Projeto:</h2>
 <h3 class="code-line" data-line-start=23 data-line-end=24 ><a id="Escalonando_o_Servidor_23"></a>💻 Escalonando o Servidor</h3>
